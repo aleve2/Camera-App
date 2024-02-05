@@ -1,4 +1,5 @@
 {
+    "id": "ac7b5331-4b33-497a-81ba-ddb2ad0d0e05",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -281,7 +282,6 @@
             "name": "Label1"
         }
     ],
-    "id": "ac7b5331-4b33-497a-81ba-ddb2ad0d0e05",
     "thunkableVersion": 443,
     "name": "Home1"
 }
